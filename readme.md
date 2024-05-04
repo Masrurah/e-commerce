@@ -1,73 +1,19 @@
-# Electro Trade Hub - CSE 471 Project
+![signin](https://github.com/Masrurah/e-commerce/assets/151788074/cd823a55-2e69-46f1-8b25-c05b33f31a1d)
+![Shipping](https://github.com/Masrurah/e-commerce/assets/151788074/757d474f-07b3-4295-b2a5-96d43f137ab6)
+![search bar](https://github.com/Masrurah/e-commerce/assets/151788074/bcb43e98-4ed8-4482-9a31-89e069c9f822)
+![register](https://github.com/Masrurah/e-commerce/assets/151788074/7701d905-ea04-4452-981e-21dde9ebe780)
+![product](https://github.com/Masrurah/e-commerce/assets/151788074/3181830e-9928-41f1-ab06-1effb7192f4a)
+![product price calculation](https://github.com/Masrurah/e-commerce/assets/151788074/9f353dd0-21a4-4689-a7f1-595fdedb918b)
+![paymentselection](https://github.com/Masrurah/e-commerce/assets/151788074/a3924a26-17a7-4e8d-8b59-114e6d00e2fc)
+![paymentcomplete](https://github.com/Masrurah/e-commerce/assets/151788074/9491b7a5-bc21-4801-8777-b6d0bf0764eb)
+![payment](https://github.com/Masrurah/e-commerce/assets/151788074/209faab7-b889-42a8-80f4-091f28aa614b)
+![orderpageadmin](https://github.com/Masrurah/e-commerce/assets/151788074/00560d2d-e402-4df3-8833-bb61549866a9)
+![ordernotdeliv](https://github.com/Masrurah/e-commerce/assets/151788074/5298dde9-84de-4086-adab-6b867dc72f9c)
+![OrderConfirm](https://github.com/Masrurah/e-commerce/assets/151788074/dd2e78fb-ea14-40d1-9590-e9ec0685c6d6)
+![markeddeliv](https://github.com/Masrurah/e-commerce/assets/151788074/b170e0bb-9b11-464f-90a5-0a112d59376b)
+![landingpage](https://github.com/Masrurah/e-commerce/assets/151788074/e7ac85ed-a329-434f-9f6a-4b02ff80572f)
+![Cart](https://github.com/Masrurah/e-commerce/assets/151788074/16aaab70-3e5b-461e-b511-0d92f7226243)
+![adminoptions](https://github.com/Masrurah/e-commerce/assets/151788074/7bb5bf98-f0d8-495b-aa39-fe9e859f4498)
+![adminnav](https://github.com/Masrurah/e-commerce/assets/151788074/2971c8db-d18a-4f0a-82b7-86a61e04f602)
+![addprod](https://github.com/Masrurah/e-commerce/assets/151788074/d8f07339-4a21-42a4-86f1-9d273abcace4)
 
-## Sign In Page
-
-This is the sign in page where users can sign in and proceed for next steps.
-
-![signinpage](./gitimages/signin.PNG)
-
-## User Registration Page
-
-This is the page where user can create an account for our website.
-
-![registerpage](./gitimages/register.PNG)
-
-## Home Page
-
-This is the first page the user will see after logging in or creating an account. This page contains a carousel, with all the products below.
-
-![landingpage](./gitimages/landingpage.PNG)
-
-## Product Details Page and Review
-
-If we click a product then we can see the product details page with a form for submiting reviews and looking at all the reviews for that product.
-
-![productpage](./gitimages/product.PNG)
-
-## Order Pages
-
-First the cart Page
-
-![cart](./gitimages/Cart.PNG)
-
-Then our shipping page
-
-![shippingpage](./gitimages/Shipping.PNG)
-
-Then we have our payment selection page
-
-![paymentselection](./gitimages/paymentselection.PNG)
-
-Then we have to confirm the order
-
-![orderconfirm](./gitimages/OrderConfirm.PNG)
-
-Now the payment page
-
-1. Before Payment Completed
-   ![payment](./gitimages/payment.PNG)
-2. After Payment
-   ![paymentdone](./gitimages/paymentcomplete.PNG)
-
-## Admin Pages
-
-Here are the admin pages
-
-This is how the admin navbar looks like
-![adminnav](./gitimages/adminnav.PNG)
-
-These are the options admin can perform
-![adminop](./gitimages/adminoptions.PNG)
-
-This is the page where admin can add product edit and delte
-![adminprod](./gitimages/addprod.PNG)
-
-This is order page that admin will see only
-![adminorder](./gitimages/orderpageadmin.PNG)
-
-This is how the page looks like before and after order delivered
-
-1. Before Marked Delivered
-   ![befdeliv](./gitimages/ordernotdeliv.PNG)
-2. After marked delivered
-   ![afterdeliv](./gitimages/markeddeliv.PNG)
